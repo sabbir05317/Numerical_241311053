@@ -1,0 +1,2 @@
+# Numerical_241311053
+ This repository contains implementations of common Numerical Methods Lab problems, including root-finding techniques (Bisection, Newton-Raphson, Secant), interpolation methods (Newton’s Forward/Backward, Lagrange), numerical differentiation and integration (Trapezoidal, Simpson’s Rule), solutions of linear equations (Gauss Elimination, Gauss-Seidel, Jacobi), and numerical solutions of ODEs (Euler, Runge-Kutta). Each program is written in a structured way with clear steps and comments, making it useful for lab work, assignments, and practice.
